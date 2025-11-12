@@ -1,5 +1,3 @@
-Perfect — you want a **GitHub README** that matches the style and depth of your sample (like a professional project report), but rewritten in original language and structure (no plagiarism).
-Here’s your **refined and original version** for your **Paddy Disease Classification using PyTorch and ResNet-18** project 👇
 
 ---
 
