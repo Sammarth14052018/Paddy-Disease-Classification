@@ -141,7 +141,7 @@ This design ensures efficient training while maintaining excellent generalizatio
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Paddy-Disease-Classifier.git
+git clone https://github.com/<Sammarth14052018>/Paddy-Disease-Classifier.git
 cd Paddy-Disease-Classifier
 
 # Install dependencies
